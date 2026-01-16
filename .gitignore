@@ -29,3 +29,4 @@ TAGS*~
 git-src
 .project
 .cproject
+.file_activity_report.json
